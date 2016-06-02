@@ -1,0 +1,13 @@
+#banner {
+    min-height: 300px;
+    border-bottom: none;
+}
+
+.message.success {
+	margin-top: 65px;
+	background-color: #ff9800;
+	border: none;
+    color: #fff;
+    padding: 15px;
+    border-radius: 3px;
+}

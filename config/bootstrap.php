@@ -219,3 +219,6 @@ Type::build('date')
     ->useImmutable();
 Type::build('datetime')
     ->useImmutable();
+
+// Bootstrap
+Plugin::load('TwitterBootstrap');
